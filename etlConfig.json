@@ -1,0 +1,15 @@
+{
+  "defaultCredentials": {
+    "host": "127.0.0.1",
+    "database": "ezyvet",
+    "user": "admin",
+    "password": "admin_pass",
+    "port": 3306
+  },
+  "csv": {
+    "active" : true,
+    "filepath" : "contact_list.csv"
+  },
+  "insertSize" : 5
+
+}
